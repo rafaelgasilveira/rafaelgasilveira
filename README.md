@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @rafaelgasilveira. i'm from São Paulo, Brazil.
-- Projects with Data Analysis.
-- SAP / TOTVS.
+- 👋 Hi, my name is Rafael Garrefa Silveira. I'm from São Paulo, Brazil.
+- Projects with Data Engineering / Business Intelligence / Data Science.
+- Fluig Developer.
+
 - 📫 How to reach me. Email me: rafaelgarrefa@outlook.com. Linkedin: linkedin.com/in/rafaelgsilveira 
 
 <!---
