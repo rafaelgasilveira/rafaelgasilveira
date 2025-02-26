@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rafaelgasilveira. i'm from São Paulo, Brazil.
-- Projects with Data Analysis.
+- Projects with Data Analysis / Data Engineering / Business Analytics / TOTVS Fluig
 - SAP / TOTVS.
 - 📫 How to reach me. Email me: rafaelgarrefa@outlook.com. Linkedin: linkedin.com/in/rafaelgsilveira 
 
